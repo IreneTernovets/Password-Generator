@@ -71,6 +71,11 @@ h1 {
   align-items: center;
 }
 
+.password-field p {
+  color: var(--main-text-color);
+  margin-left: 10px;
+}
+
 .copy-button {
   background-color: transparent;
   border: none;
